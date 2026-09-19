@@ -3,8 +3,8 @@
 **aarch64-host** rebuilds of the Broadcom HND 5.04behnd.4916 crosstools used by
 [RMerl/am-toolchains](https://github.com/RMerl/am-toolchains) — same versions, same tuning,
 regenerated from upstream sources with Buildroot 2021.02.4 (the same generator the shipped
-x86_64 toolchains came from). Proposed for upstream inclusion in
-[RMerl/am-toolchains#6](https://github.com/RMerl/am-toolchains/issues/6).
+x86_64 toolchains came from). ~~Proposed for upstream inclusion in
+[RMerl/am-toolchains#6](https://github.com/RMerl/am-toolchains/issues/6).~~
 
 - `crosstools-arm_softfp-gcc-10.3-linux-4.19-glibc-2.32-binutils-2.36.1` — target tuning `cortex-a9 / vfpv3 / softfp`
 - `crosstools-aarch64-gcc-10.3-linux-4.19-glibc-2.32-binutils-2.36.1` — target tuning `cortex-a53`
